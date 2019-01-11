@@ -4,4 +4,4 @@ An awsome [course](https://course.fast.ai/about.html) taugth by Jermey Howard an
 
 |  **Notebook**                                              |  **Completed**
 |-------------------------------------------------------|--------------------
-[lang_model_arxiv.ipynb](https://github.com/x110/DLToolboxImg/blob/master/lang_model_arxiv.ipynb)            |
+[lang_model_arxiv.ipynb](https://github.com/x110/MyFastaiNotebooks/blob/master/lang_model_arxiv.ipynb)            |
